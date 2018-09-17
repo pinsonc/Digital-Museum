@@ -1,5 +1,5 @@
 //Digital Museum
-//This project was creating during employment on a personal machine at Exploration Summer Schools. The concept
+//This project was created during employment on a personal machine at Exploration Summer Schools. The concept
 //was given to me by IT director Sam Osborn but this implementation was built by Conner Pinson for use
 //by his second session EXPLO at Yale Computer Programming and Processing Students
 
