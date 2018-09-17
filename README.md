@@ -21,3 +21,7 @@ Lines **74-82** requires some configuration based on the studenet projects you a
 The variable curPos keeps track of which project window the viewer is currently on. It can be navigated using arrow keys (implemented in lines 88-106) and by clicking on the onscreen arrows (lines 114-129)
 
 Clicking on the preview image will cause the program to launch in a new window (109-112). The clickable area does not change according to the scale of the actual image. It stays at 1280x720.
+
+## Demo
+
+A demo in the form of a gif is available [here](https://imgur.com/a/9ajAA3G) since getting the program to run will take some config. I figured you would at least like to see what it looks like first.
