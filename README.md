@@ -25,3 +25,7 @@ Clicking on the preview image will cause the program to launch in a new window (
 ## Demo
 
 A demo in the form of a gif is available [here](https://imgur.com/a/9ajAA3G) since getting the program to run will take some config. I figured you would at least like to see what it looks like first.
+
+## TODO
+- Change file names to xxName convention so they are more neatly ordered
+- Known issue: the first Processing window that is opened by the program will be opened underneath the museum. After the first one is alt-tabbed to and given focus, all the rest will appear on top
